@@ -1,0 +1,4 @@
+linear arohanam/avarohanam: you can only descend/ascend from a note that is in avarohanam/arohanam
+
+nonlinear: split up the arohanm/avarohanam into its linear pieces? you can only follow those (maybe)
+natakurunji: s r g m n d n p d n s, s n d m g m p g r s
